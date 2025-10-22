@@ -125,6 +125,9 @@ Open http://localhost:8506 to view your portfolio analytics dashboard!
 - **Position Details**: Holdings with P&L breakdown
 - **Benchmark Comparison**: Performance vs market indices
 
+<!-- Add screenshots -->
+![Dashboard Screenshot](docs/images/dashboard_graphs.png)
+
 ## 🛠️ Project Structure
 
 ```
